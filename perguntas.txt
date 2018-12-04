@@ -1,0 +1,34 @@
+1 - Como trocar o valor de duas variáveis em uma única linha de código?
+
+R: a, b = b, a
+
+2 - O que são "function decorators" e para que servem?
+
+R: os decorators alteram dinamicamente a funcionalidade de uma função, método ou classe sem precisar usar subclasses diretamente.
+
+3 - Quais as principais diferenças entre Python 2 e 3?
+
+R:
+
+4 - Python é interpretado ou compilado?
+
+R: interpretado
+
+5 - Porque usar virtualenv?
+
+R: usando virtualenv isolamos as dependências dos projetos.
+
+6 - Que modulos/funções de rede você usaria para:
+	6.1 - Gerar um ataque com pacotes hackeados
+	slowloris
+	6.2 - Fazer um POST em um servidor HTTP
+	requests
+	6.3 - Fazer o Parse de um documento HTML
+	https://imasters.com.br/data
+
+7 - Mencione um framework em Python que permite agendar e disparar funções assincronamente para múltiplos processos.
+
+R: RabbitMQ
+
+8 - No Django, que estratégia você usa para diferenciar os "settings" de produção e de desenvolvimento? 
+R: 
